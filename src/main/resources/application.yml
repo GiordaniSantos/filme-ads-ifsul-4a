@@ -11,3 +11,6 @@ spring:
     hibernate:
       ddl-auto: update
       show-sql: false
+
+api:
+  url: http://www.omdbapi.com?apikey=8e50f0d5
